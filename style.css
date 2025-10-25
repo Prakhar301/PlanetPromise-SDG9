@@ -1,0 +1,193 @@
+            body{
+                background-color:rgba(12, 13, 13, 0.956);
+            }
+            li{
+                color:rgb(255, 230, 75);
+                font-family: Comic Sans MS;
+                font-size: medium;
+            }
+            .li{
+                margin-right:10px;
+                margin-left: 10px;
+                float: left;
+            }
+            a{
+                color: whitesmoke;
+                font-size: x-large;
+                font-weight: 700;
+            }
+            .header{
+                background-color:rgba(247, 70, 70, 0.878);
+                padding:10px;
+            }
+            .header::after{
+                content: "";
+                clear: both;
+                display: table;
+            }
+            nav{
+                display:inline-block;
+                font-size: large;
+
+            }
+            .about{
+                width: 1300px;
+                height:575px;
+                margin-left: 10px;
+            }
+            .head{
+                color:rgb(173, 110, 47);
+                font-family:Calibri Bold;
+                font-weight: bolder;
+                font-size: 40;
+            }
+            .name{
+                color:azure;
+            }
+            .aboutus{
+                background-color: white ;
+                margin-top: 50px;
+            }
+            .intro{
+                text-align: center;
+                font-family: Arial Black;
+                font-size: 40;
+            }
+            .para{
+                padding:10px;
+                font-size: larger;
+                font-family: cursive;
+            }j
+            .content{
+                font-weight: 600;
+                font-family: 'Courier New', Courier, monospace; 
+                font-size: larger;
+            }
+            .sdg{
+                background-color:yellowgreen;
+                padding: 5px;
+                margin-top: 50px;
+            }
+            .hallo{
+                width: 150px;
+                float: left;
+            }
+            .aim{
+                background-color: rgb(255, 90, 75);
+            }
+            .hello{
+                font-family:Helvetica;
+                font-size: larger;
+                color:rgb(105, 255, 75);
+            }
+            .headmi{
+                font-weight: bolder;
+                font-size: 40;
+            }
+            .line{
+                font-family:Tahoma;
+                font-size: 22;
+            }
+            .abc{
+                font-size:40;
+                font-weight: bolder;
+            }
+            .why{
+                background-color: rgb(75, 150, 255);
+            }
+            .deah{
+                text-align: center;
+                font-size: 40;
+            }
+            .matter{
+                font-size: larger;                
+                color: chartreuse;
+                font-weight: 500;
+            }
+            .eg{
+                font-size: x-large;
+                color: rgb(128, 62, 59);
+            }
+            footer{
+                background-color: white;
+                text-align: center;
+                padding: 20px;
+                font-size: x-large;
+            }
+            .contact{
+                background-color:burlywood;
+                padding: 5px;
+            }
+            .lii{
+                color: blueviolet;
+            }
+            .mailme{
+                color: red;
+                padding:15px;
+            }
+            .fund{
+                background-color: violet;
+            }
+            .donate{
+                font-size: 40;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+            .donation{
+                color: seashell;
+            }
+            .input{
+                width: 400px;
+                font-size: large;
+            }
+            .submit{
+                background-color: black;
+                color: red;
+                padding: 10px;
+            }
+.whole {
+    float: left;
+}
+.imagewho{
+    width: 580px;
+    float: left;
+    margin: 10px;
+}
+.imagesdg9{
+    width: 300px;
+    float: left;
+    margin: 10px;
+}
+.imagewhy{
+    width: 400px;
+    float: left;
+    margin: 10px;
+}
+.aboutus::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.sdg::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.why::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.option::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.form{
+    float:left;
+}
+.qr{
+    float:left;
+    margin-left: 200px;
+    width:150px;
+    margin-top: 25px;
+}
